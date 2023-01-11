@@ -1,11 +1,23 @@
 <h1 align="center">Bora Codar</h1>
-- [BoraCodar.dev](https://boracodar.dev)
+- https://boracodar.dev
 <h2>Music Player</h2>
 
 > Pratice #NeverStopLearning #boraCodar
 
 Desafio inicial é montar uma tela em qualquer tecnologia utilizando o modelo disponibilizado no Figma.
 Além do modelo foi adicionado funcionalidades que permitem escutar, pausar, passar ou voltar músicas reais
+
+### [Live Preview]
+
+https://fp-boracodar-music-player.netlify.app/
+
+### [Preview]
+
+![](https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-music-player-react/main/assets/preview.gif)
+
+### [Figma Model](<https://www.figma.com/file/yJM7V8qgBBDfaLtDiv8MvP/%23boraCodar---Desafio-1-(Copy)>)
+
+![](https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-music-player-react/main/assets/figma-example.png)
 
 #### Tecnologias
 
@@ -23,14 +35,6 @@ yarn install
 ```sh
 yarn dev
 ```
-
-### [Figma Model](<https://www.figma.com/file/yJM7V8qgBBDfaLtDiv8MvP/%23boraCodar---Desafio-1-(Copy)>)
-
-![](https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-music-player-react/main/assets/figma-example.png)
-
-### [Preview]
-
-![](https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-music-player-react/main/assets/preview.gif)
 
 ## Author
 
