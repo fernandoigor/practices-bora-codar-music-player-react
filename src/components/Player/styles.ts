@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 interface ImageAudio {
-  width: number;
-  height: number;
+  width?: number;
+  height?: number;
 }
 interface TimeLineActiveProps {
   percent: number;
