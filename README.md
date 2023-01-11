@@ -1,4 +1,5 @@
-<h1 align="center">[Bora Codar](https://boracodar.dev/#) ![](https://boracodar.dev/logo.svg)</h1>
+<h1 align="center">Bora Codar</h1>
+[BoraCodar.dev](https://boracodar.dev/#)
 <h2>Music Player</h2>
 
 > Pratice #NeverStopLearning #boraCodar
