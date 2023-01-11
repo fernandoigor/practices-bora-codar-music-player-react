@@ -1,5 +1,5 @@
 <h1 align="center">Bora Codar</h1>
-[BoraCodar.dev](https://boracodar.dev/#)
+[BoraCodar.dev](https://boracodar.dev)
 <h2>Music Player</h2>
 
 > Pratice #NeverStopLearning #boraCodar
@@ -24,11 +24,11 @@ yarn install
 yarn dev
 ```
 
-### [Figma Model](https://www.figma.com/file/yJM7V8qgBBDfaLtDiv8MvP/%23boraCodar---Desafio-1-(Copy)
+### [Figma Model](<https://www.figma.com/file/yJM7V8qgBBDfaLtDiv8MvP/%23boraCodar---Desafio-1-(Copy)>)
 
 ![](https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-music-player-react/main/assets/figma-example.png)
 
-### [Preview](https://www.figma.com/file/yJM7V8qgBBDfaLtDiv8MvP/%23boraCodar---Desafio-1-(Copy)
+### [Preview]
 
 ![](https://raw.githubusercontent.com/fernandoigor/practices-bora-codar-music-player-react/main/assets/preview.gif)
 
